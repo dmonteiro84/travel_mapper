@@ -1,0 +1,49 @@
+departure_arrival,timestamp,location,latitude,longitude
+departure,08/09/2021  11:45:00 Europe/Berlin,"Frankfurt Airport, Germany",50.02294325,8.524937254258731
+arrival,08/09/2021  13:00:00 Europe/Amsterdam,"Amsterdam Airport Schiphol, Netherlands",52.32698005,4.74150530038293
+departure,08/10/2021  11:50:00 Europe/Amsterdam,"Amsterdam Airport Schiphol, Netherlands",52.32698005,4.74150530038293
+arrival,08/10/2021  17:30:00 America/Aruba,"Reina Beatrix Airport, Aruba",12.50213495,-70.01412635032392
+departure,09/10/2021  13:30:00 America/Aruba,"Reina Beatrix Airport, Aruba",12.50213495,-70.01412635032392
+arrival,09/10/2021  18:11:00 America/New_York,"JFK Airport, New York City, USA",40.642947899999996,-73.7793733748521
+departure,09/13/2021  10:45:00 America/New_York,"LaGuardia Airport, New York City, USA",40.7757145,-73.87336398511545
+arrival,09/13/2021  12:08:00 America/Toronto,"Montréal-Trudeau International Airport, Montréal, Canada",45.4687293,-73.74249704278634
+departure,11/01/2021  13:00:00 America/Toronto,"Toronto-Pearson International Airport, Canada",43.678223599999995,-79.62880467470774
+arrival,11/01/2021  16:13:00 America/New_York,"Miami International Airport, USA",25.7949789,-80.28672341095405
+departure,11/19/2021  19:35:00 America/New_York,"Miami International Airport, USA",25.7949789,-80.28672341095405
+arrival,11/20/2021  09:15:00 Europe/London,"Heathrow Airport, London, UK",51.46773895,-0.4587800741571181
+departure,11/20/2021  12:35:00 Europe/London,"Heathrow Airport, London, UK",51.46773895,-0.4587800741571181
+arrival,11/20/2021  15:30:00 Europe/Lisbon,"Faro Airport, Portugal",37.017459599999995,-7.973933672397203
+departure,12/05/2021  12:00:00 Europe/Lisbon,"Faro Airport, Portugal",37.017459599999995,-7.973933672397203
+arrival,12/05/2021  16:10:00 Europe/Berlin,"Frankfurt Airport, Germany",50.02294325,8.524937254258731
+departure,12/27/2021  17:10:00 Europe/Berlin,"Frankfurt Airport, Germany",50.02294325,8.524937254258731
+arrival,12/27/2021  20:40:00 America/New_York,"Washington Dulles Airport, USA",38.95226625,-77.4534849116007
+departure,12/27/2021  22:25:00 America/New_York,"Washington Dulles Airport, USA",38.95226625,-77.4534849116007
+arrival,12/28/2021  03:01:00 America/Santo_Domingo,"Las Américas International Airport, Santo Domingo, Dominican Republic",18.42929615,-69.6715123798729
+departure,03/10/2022  15:04:00 America/Santo_Domingo,"Las Américas International Airport, Santo Domingo, Dominican Republic",18.42929615,-69.6715123798729
+arrival,03/10/2022  16:34:00 America/New_York,"Miami International Airport, USA",25.7949789,-80.28672341095405
+departure,03/10/2022  18:25:00 America/New_York,"Miami International Airport, USA",25.7949789,-80.28672341095405
+arrival,03/10/2022  21:02:00 America/Los_Angeles,"Los Angeles International Airport, USA",33.94216754999999,-118.42135906141587
+departure,03/11/2022  13:25:00 America/Los_Angeles,"Los Angeles International Airport, USA",33.94216754999999,-118.42135906141587
+arrival,03/11/2022  17:39:00 Pacific/Honolulu,"Daniel K. Inouye International Airport, Honolulu, Hawaii, USA",21.32115685,-157.91844155599904
+departure,03/26/2022  08:25:00 Pacific/Honolulu,"Daniel K. Inouye International Airport, Honolulu, Hawaii, USA",21.32115685,-157.91844155599904
+arrival,03/27/2022  15:45:00 Australia/Sydney,"Sydney Airport, Australia",-33.9498935,151.18196819346016
+departure,04/14/2022  14:00:00 Australia/Sydney,"Sydney Airport, Australia",-33.9498935,151.18196819346016
+arrival,04/14/2022  15:30:00 Australia/Sydney,"Brisbane Airport, Australia",-27.387621250000002,153.12158203524928
+departure,04/18/2022  07:35:00 Australia/Sydney,"Brisbane Airport, Australia",-27.387621250000002,153.12158203524928
+arrival,04/18/2022  10:00:00 Australia/Sydney,"Cairns Airport, Australia",-16.877789200000002,145.75154952736838
+departure,05/03/2022  17:05:00 Australia/Sydney,"Brisbane Airport, Australia",-27.387621250000002,153.12158203524928
+arrival,05/03/2022  18:40:00 Australia/Sydney,"Sydney Airport, Australia",-33.9498935,151.18196819346016
+departure,05/14/2022  16:30:00 Australia/Sydney,"Sydney Airport, Australia",-33.9498935,151.18196819346016
+arrival,05/14/2022  06:00:00 Pacific/Honolulu,"Daniel K. Inouye International Airport, Honolulu, Hawaii, USA",21.32115685,-157.91844155599904
+departure,05/14/2022  09:55:00 Pacific/Honolulu,"Daniel K. Inouye International Airport, Honolulu, Hawaii, USA",21.32115685,-157.91844155599904
+arrival,05/14/2022  10:51:00 Pacific/Honolulu,"Hilo International Airport, Hawaii, USA",19.718830599999997,-155.04755391447696
+departure,06/03/2022  22:45:00 Pacific/Honolulu,"Hilo International Airport, Hawaii, USA",19.718830599999997,-155.04755391447696
+arrival,06/04/2022  06:59:00 America/Los_Angeles,"Los Angeles International Airport, USA",33.94216754999999,-118.42135906141587
+departure,06/07/2022  10:45:00 America/Los_Angeles,"Los Angeles International Airport, USA",33.94216754999999,-118.42135906141587
+arrival,06/07/2022  17:25:00 America/Cancun,"Cancun International Airport, Mexico",21.0406984,-86.88175904256647
+departure,08/06/2022  15:33:00 America/Cancun,"Mérida International Airport, Mexico",20.9246449,-89.65927789055651
+arrival,08/06/2022  17:45:00 America/Chicago,"George Bush Intercontinental Airport, Houston, USA",29.9841416,-95.33298595614491
+departure,08/06/2022  20:12:00 America/Chicago,"George Bush Intercontinental Airport, Houston, USA",29.9841416,-95.33298595614491
+arrival,08/06/2022  22:08:00 America/Los_Angeles,"San Jose International Airport, USA",37.3633299,-121.9293365260259
+departure,08/11/2022  20:35:00 America/Los_Angeles,"San Francisco International Airport, USA",37.622451999999996,-122.38398938548363
+arrival,08/12/2022  17:10:00 Europe/Berlin,"Frankfurt Airport, Germany",50.02294325,8.524937254258731

@@ -1,0 +1,49 @@
+﻿departure_arrival;timestamp;location
+departure;08/09/2021  11:45:00 Europe/Berlin;Frankfurt Airport, Germany
+arrival;08/09/2021  13:00:00 Europe/Amsterdam;Amsterdam Airport Schiphol, Netherlands
+departure;08/10/2021  11:50:00 Europe/Amsterdam;Amsterdam Airport Schiphol, Netherlands
+arrival;08/10/2021  17:30:00 America/Aruba;Reina Beatrix Airport, Aruba
+departure;09/10/2021  13:30:00 America/Aruba;Reina Beatrix Airport, Aruba
+arrival;09/10/2021  18:11:00 America/New_York;JFK Airport, New York City, USA
+departure;09/13/2021  10:45:00 America/New_York;LaGuardia Airport, New York City, USA
+arrival;09/13/2021  12:08:00 America/Toronto;Montréal-Trudeau International Airport, Montréal, Canada
+departure;11/01/2021  13:00:00 America/Toronto;Toronto-Pearson International Airport, Canada
+arrival;11/01/2021  16:13:00 America/New_York;Miami International Airport, USA
+departure;11/19/2021  19:35:00 America/New_York;Miami International Airport, USA
+arrival;11/20/2021  09:15:00 Europe/London;Heathrow Airport, London, UK
+departure;11/20/2021  12:35:00 Europe/London;Heathrow Airport, London, UK
+arrival;11/20/2021  15:30:00 Europe/Lisbon;Faro Airport, Portugal
+departure;12/05/2021  12:00:00 Europe/Lisbon;Faro Airport, Portugal
+arrival;12/05/2021  16:10:00 Europe/Berlin;Frankfurt Airport, Germany
+departure;12/27/2021  17:10:00 Europe/Berlin;Frankfurt Airport, Germany
+arrival;12/27/2021  20:40:00 America/New_York;Washington Dulles Airport, USA
+departure;12/27/2021  22:25:00 America/New_York;Washington Dulles Airport, USA
+arrival;12/28/2021  03:01:00 America/Santo_Domingo;Las Américas International Airport, Santo Domingo, Dominican Republic
+departure;03/10/2022  15:04:00 America/Santo_Domingo;Las Américas International Airport, Santo Domingo, Dominican Republic
+arrival;03/10/2022  16:34:00 America/New_York;Miami International Airport, USA
+departure;03/10/2022  18:25:00 America/New_York;Miami International Airport, USA
+arrival;03/10/2022  21:02:00 America/Los_Angeles;Los Angeles International Airport, USA
+departure;03/11/2022  13:25:00 America/Los_Angeles;Los Angeles International Airport, USA
+arrival;03/11/2022  17:39:00 Pacific/Honolulu;Daniel K. Inouye International Airport, Honolulu, Hawaii, USA
+departure;03/26/2022  08:25:00 Pacific/Honolulu;Daniel K. Inouye International Airport, Honolulu, Hawaii, USA
+arrival;03/27/2022  15:45:00 Australia/Sydney;Sydney Airport, Australia
+departure;04/14/2022  14:00:00 Australia/Sydney;Sydney Airport, Australia
+arrival;04/14/2022  15:30:00 Australia/Sydney;Brisbane Airport, Australia
+departure;04/18/2022  07:35:00 Australia/Sydney;Brisbane Airport, Australia
+arrival;04/18/2022  10:00:00 Australia/Sydney;Cairns Airport, Australia
+departure;05/03/2022  17:05:00 Australia/Sydney;Brisbane Airport, Australia
+arrival;05/03/2022  18:40:00 Australia/Sydney;Sydney Airport, Australia
+departure;05/14/2022  16:30:00 Australia/Sydney;Sydney Airport, Australia
+arrival;05/14/2022  06:00:00 Pacific/Honolulu;Daniel K. Inouye International Airport, Honolulu, Hawaii, USA
+departure;05/14/2022  09:55:00 Pacific/Honolulu;Daniel K. Inouye International Airport, Honolulu, Hawaii, USA
+arrival;05/14/2022  10:51:00 Pacific/Honolulu;Hilo International Airport, Hawaii, USA
+departure;06/03/2022  22:45:00 Pacific/Honolulu;Hilo International Airport, Hawaii, USA
+arrival;06/04/2022  06:59:00 America/Los_Angeles;Los Angeles International Airport, USA
+departure;06/07/2022  10:45:00 America/Los_Angeles;Los Angeles International Airport, USA
+arrival;06/07/2022  17:25:00 America/Cancun;Cancun International Airport, Mexico
+departure;08/06/2022  15:33:00 America/Cancun;Mérida International Airport, Mexico
+arrival;08/06/2022  17:45:00 America/Chicago;George Bush Intercontinental Airport, Houston, USA
+departure;08/06/2022  20:12:00 America/Chicago;George Bush Intercontinental Airport, Houston, USA
+arrival;08/06/2022  22:08:00 America/Los_Angeles;San Jose International Airport, USA
+departure;08/11/2022  20:35:00 America/Los_Angeles;San Francisco International Airport, USA
+arrival;08/12/2022  17:10:00 Europe/Berlin;Frankfurt Airport, Germany
